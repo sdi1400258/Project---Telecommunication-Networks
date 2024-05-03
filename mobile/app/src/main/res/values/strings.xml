@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Myapp</string>
+    <string name="action_settings">Settings</string>
+    <string name="my_string_1">Button test</string>
+    <string name="title_activity_settings">SettingsActivity</string>
+    <string name="configure_ip">Configure edgeIp:</string>
+    <string name="configure_port">Configure Port:</string>
+    <string name="source_file">Source file:</string>
+    <string name="radiobutton26">Car 26</string>
+    <string name="radiobutton27">Car 27</string>
+    <string name="action_exit">exit</string>
+    <string name="title_activity_maps">Map</string>
+</resources>
