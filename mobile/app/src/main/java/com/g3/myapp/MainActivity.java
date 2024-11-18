@@ -36,7 +36,6 @@ import java.io.IOException;
 import java.io.InputStream;
 import java.io.InputStreamReader;
 
-// AIzaSyBa2kabAVayhDrrvVK4phcheUXrfQbDvuQ
 
 public class MainActivity extends AppCompatActivity implements OnMapReadyCallback {
     private EditText duration;
